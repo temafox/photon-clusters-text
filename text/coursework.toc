@@ -1,0 +1,19 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Введение}{4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Детектор КМД-3 и LXe калориметр}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Формат входных данных с калориметра}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Библиотека TMVA и метод BDT}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Алгоритм разделения кластеров}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Результаты}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Заключение}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Список литературы}{6}% 
+\contentsfinish 
