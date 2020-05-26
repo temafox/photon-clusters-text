@@ -1,10 +1,10 @@
 \babel@toc {russian}{}
-\contentsline {section}{\numberline {1}\IeC {\CYRV }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{4}% 
-\contentsline {section}{\numberline {2}\IeC {\CYRD }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr } \IeC {\CYRK }\IeC {\CYRM }\IeC {\CYRD }-3 \IeC {\cyri } LXe \IeC {\cyrk }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyrr }}{5}% 
-\contentsline {section}{\numberline {3}\IeC {\CYRF }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrm }\IeC {\cyra }\IeC {\cyrt } \IeC {\cyrv }\IeC {\cyrh }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyrd }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyrs } \IeC {\cyrk }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyra }}{7}% 
-\contentsline {section}{\numberline {4}\IeC {\CYRB }\IeC {\cyri }\IeC {\cyrb }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra } TMVA \IeC {\cyri } \IeC {\cyrm }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrd } BDT}{7}% 
-\contentsline {section}{\numberline {5}\IeC {\CYRA }\IeC {\cyrl }\IeC {\cyrg }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyrm } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrya } \IeC {\cyrk }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrv }}{9}% 
-\contentsline {section}{\numberline {6}\IeC {\CYRR }\IeC {\cyre }\IeC {\cyrz }\IeC {\cyru }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyrery }}{9}% 
-\contentsline {section}{\numberline {7}\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrl }\IeC {\cyryu }\IeC {\cyrch }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{9}% 
-\contentsline {section}{\IeC {\CYRS }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrk } \IeC {\cyrl }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyru }\IeC {\cyrr }\IeC {\cyrery }}{9}% 
+\contentsline {section}{\numberline {1}Введение}{4}% 
+\contentsline {section}{\numberline {2}Детектор КМД-3 и LXe калориметр}{5}% 
+\contentsline {section}{\numberline {3}Формат входных данных с калориметра}{7}% 
+\contentsline {section}{\numberline {4}Библиотека TMVA и метод BDT}{7}% 
+\contentsline {section}{\numberline {5}Алгоритм разделения кластеров}{9}% 
+\contentsline {section}{\numberline {6}Результаты}{9}% 
+\contentsline {section}{\numberline {7}Заключение}{9}% 
+\contentsline {section}{Список литературы}{9}% 
 \contentsfinish 
