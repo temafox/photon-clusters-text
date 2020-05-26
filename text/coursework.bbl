@@ -1,18 +1,24 @@
 \begin{thebibliography}{1}
 
-\bibitem{semenov}
-Семенов~А. В.
-\newblock Изучение процесса e+e- -> ks kl pi0 в области
-  энергии до 2 ГэВ с детектором КМД-3.
-\newblock Выпускная квалификационная работа,
-  ИЯФ СО РАН, Новосибирск, 2019.
+\bibitem{shatunov}
+Yu. M.~Shatunov et~al.
+\newblock Project of a new electron positron collider {VEPP}-2000.
+\newblock {\em Conf. Proc.}, C0006262:439--441, 2000.
 
 \bibitem{lakomov}
 Лакомов~А. Е.
 \newblock Разделение близких фотонов в
   калориметре КМД-3.
 \newblock Выпускная квалификационная работа,
-  ИЯФ СО РАН, Новосибирск, 2019.
+  НГУ, Новосибирск, 2019.
+
+\bibitem{rabusov}
+Рабусов~А. В.
+\newblock Изучение процесса аннигиляции e+e- - - ->
+  eta gamma, eta - - -> pi+pi-pi0 с детектором КМД-3 на
+  коллайдере ВЭПП-2000.
+\newblock Магистерская диссертация, НГУ,
+  Новосибирск, 2016.
 
 \bibitem{shebalin}
 Шебалин~В. Е.
@@ -30,23 +36,19 @@ Denis Epifanov.
 \newblock {\em Journal of Physics: Conference Series}, 293:012009, April 2011.
 
 \bibitem{lxe_2009}
-N.~S. Bashtovoy A. A. Grebenuk B. I. Khazin E. V. Kravchenko Yu. N. Pestov L.
-  A. Priymenko P. Yu. Stepanov S. G.~Zverev A.~V.~Anisyonkov, L. M.~Barkov.
-\newblock Liquid xenon calorimeter for a cmd-3 detector.
+A.~V.~Anisyonkov et~al.
+\newblock Liquid xenon calorimeter for a {CMD}-3 detector.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
   Accelerators, Spectrometers, Detectors and Associated Equipment},
   598:266--267, January 2009.
 
 \bibitem{Anisenkov_2014}
-L.~M. Barkov N. S. Bashtovoy L. B. Epshteyn A. A. Grebenuk F. V. Ignatov S. V.
-  Karpov B. I. Khazin A. N. Kozyrev I. B. Logashenko K. Yu. Mikhailov Yu. N.
-  Pestov A. S. Popov A. A. Ruban V. E. Shebalin V. M. Titov A. A. Talyshev Yu.
-  V.~Yudin A.~V.~Anisenkov, V. M.~Aulchenko.
-\newblock Status of the liquid xenon calorimeter of the {CMD}-3 detector.
+A.~V.~Anisenkov et~al.
+\newblock Status of the {Liquid Xenon} calorimeter of the {CMD}-3 detector.
 \newblock {\em Journal of Instrumentation}, 9(08):C08024--C08024, August 2014.
 
 \bibitem{tmva4}
-J.~Stelzer J. Thernaag E. von Toerne H.~Voss A.~Hoecker, P.~Speckmayer.
+A.~Hoecker et~al.
 \newblock {\em TMVA 4. Toolkit for Multivariate Data Analysis with ROOT. Users
   Guide}.
 \newblock Regents of CERN et al., 2005-2009.
