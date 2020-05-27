@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {3}Формат входных данных с калориметра}{7}% 
 \contentsline {section}{\numberline {4}Библиотека TMVA и метод BDT}{7}% 
 \contentsline {section}{\numberline {5}Алгоритм разделения кластеров}{9}% 
-\contentsline {section}{\numberline {6}Результаты}{9}% 
-\contentsline {section}{\numberline {7}Заключение}{9}% 
-\contentsline {section}{Список литературы}{9}% 
+\contentsline {section}{\numberline {6}Результаты}{10}% 
+\contentsline {section}{\numberline {7}Заключение}{10}% 
+\contentsline {section}{Список литературы}{10}% 
 \contentsfinish 
